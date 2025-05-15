@@ -2,4 +2,6 @@
 
 # To navigate to PDF, home page -> takes you to video link
 
-# to navigate to .kt files:  
+# To navigate to .kt files: App -> src -> Main -> Java/com/DanielTownley... -> ui
+
+# To navigate to .xml files: App -> src -> Main -> res -> layout
